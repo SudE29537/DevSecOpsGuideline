@@ -88,7 +88,7 @@ it checks the software behavior under unexpected conditions and inputs.
 2. **Dynamic testing**
 
    Dynamic Testing analyzes the behavior of the code at runtime:
-   it includes the testing the input values and output values that are analyzed.
+   It includes the testing the input values and output values that are analyzed.
 
 ---
 
